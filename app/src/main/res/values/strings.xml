@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Awesome App</string>
+    <string name="menu_grid">Menu Grid</string>
+    <string name="menu_list">Menu List</string>
+    <string name="cek_koneksi_internet">Cek koneksi internet kamu ya!</string>
+    <string name="koneksi_kamu_lambat">Koneksi internet kamu lambat</string>
+    <string name="image_empty_list">Image empty list</string>
+    <string name="image_no_connection">Image no connection</string>
+    <string name="oops">Oops..</string>
+    <string name="ok">OK</string>
+    <string name="image_photo">Image photo</string>
+    <string name="image_cover">Image cover</string>
+    <string name="wah_kosong">Wah kosong..</string>
+    <string name="tidak_ada_photo">Tidak ada photo</string>
+</resources>
